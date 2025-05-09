@@ -2,7 +2,7 @@
 
 ## Description
 
-Platform that helps users to obtain insights and relevant information on the real state market in Colombiawith their goals.
+Platform that helps users to obtain insights and relevant information on the real state market in Colombia with their goals.
 
 ## Commands
 

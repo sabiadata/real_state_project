@@ -18,9 +18,11 @@ classifiers = [
 dependencies = [
     "loguru",
     "mkdocs",
+    "mkdocs-material>=9.6.12",
     "pip",
     "polars>=1.29.0",
     "python-dotenv",
+    "ray[default]>=2.46.0",
     "ruff",
     "tqdm",
     "typer",
